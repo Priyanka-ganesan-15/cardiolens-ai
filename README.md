@@ -1,24 +1,23 @@
-# 🫀 CardioLens AI  
-### Explainable AI System for Heart Failure Risk Prediction
+# 🫀 CardioLens  
+### Explainable ML System for Heart Failure Risk Prediction
 
 ---
 
-## ✨ Overview
+## Overview
 
 CardioLens AI is a full-stack healthcare ML system that predicts heart failure mortality risk and explains predictions using interpretable feature attribution.
 
 It combines:
-- 🧠 Machine Learning (Random Forest)
-- ⚡ FastAPI backend
-- 🎨 Streamlit dashboard
-- 📊 Explainable AI (SHAP-style feature impact)
-- 🏥 Clinical-style UI
+- Machine Learning (Random Forest)
+- FastAPI backend
+- Custom Streamlit dashboard
+- Explainable AI (SHAP-style feature impact)
+- Clinical-style UI
 
 ---
 
-## 🖼️ Demo
+## Demo
 
-> Add screenshots in `/assets`
 
 | Dashboard | Prediction | Explainability |
 |----------|------------|----------------|
@@ -26,13 +25,13 @@ It combines:
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ Real-time risk prediction  
-- 🧠 Explainable AI (feature-level impact)  
-- 📊 Probability visualization  
-- 🏥 Clinical dashboard UI  
-- 🔌 API-based ML inference  
+- Real-time risk prediction  
+- Explainable AI (feature-level impact)  
+- Probability visualization  
+- Clinical dashboard UI  
+- API-based ML inference  
 
 ---
 
@@ -59,7 +58,7 @@ Features:
 
 ---
 
-## ⚙️ Setup
+## ⚙️ Setup (base)
 
 ```bash
 git clone https://github.com/your-username/cardiolens-ai.git
